@@ -99,27 +99,13 @@
 
 ---
 
-## 📊 Analytics & Activity Stats
+## 📈 Activity & Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viveksec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksec&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksec&theme=react-dark&hide_border=true&area=true" width="100%" alt="Vivek's GitHub Activity Graph" />
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksec&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Animated Contribution Snake -->
-### 🐍 Contribution Activity Graph
-<img src="https://raw.githubusercontent.com/viveksec/viveksec/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
-
 <br>
 
 <!-- Footer Banner -->
